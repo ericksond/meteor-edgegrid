@@ -1,0 +1,1 @@
+EdgeGrid = Npm.require('edgegrid')
